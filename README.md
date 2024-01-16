@@ -1,4 +1,4 @@
-# SORTING_ALGORITHM_VISUALIZER
+# SORTING ALGORITHM VISUALIZER
 Sorting Visualizer: A Python project with a graphical interface using tkinter to demonstrate Insertion, Selection, and Bubble Sort algorithms step-by-step on an array. Adjustable speed control for better visualization.
 
 
